@@ -33,3 +33,6 @@ class Commande(models.Model):
 	quantite_servi = models.FloatField()
 	observations = models.TextField()
 
+
+
+
